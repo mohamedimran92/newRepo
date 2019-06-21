@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Suite name="Regression Suite">
+<test name="Application Test1">
+<classes>
+<class name="tests.TestBase"/>
+<class name="tests.RegistrationPageTest"/>
+</classes>
+</test>
+</Suite>
