@@ -34,8 +34,8 @@ public class TestBase 	{
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		//driver.get("https://learn.letskodeit.com/"); // For registration page
 		//driver.get("https://demoqa.com/");//For HomePage
-		//driver.get("http://demo.automationtesting.in/Register.html"); //Registration page
-		driver.get("https://www.guru99.com/");
+		driver.get("http://demo.automationtesting.in/Register.html"); //Registration page
+		//driver.get("https://www.guru99.com/");
 		
 	}
 	/*
